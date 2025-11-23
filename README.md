@@ -1,0 +1,3 @@
+A variant of the Intellij Light/Dark theme for the Classic UI, that increases paddings of several elements. Intended to be used on Linux, where by default in the Classic UI the menu bar and file tree (and several other elements) are very narrow. Something that you have to get used to, when you come from Windows - if you do not want to, you can apply this theme instead.
+
+Based on the https://github.com/AtomMaterialUI/material-theme-ui-lite themes. Please check their themes, if you want more variety in your daily work life :)

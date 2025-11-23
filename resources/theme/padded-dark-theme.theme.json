@@ -1,0 +1,335 @@
+{
+  "name": "Padded Dark Theme",
+  "dark": true,
+  "author": "Mallowigi GitHub Fork",
+  "ui": {
+    "ActionsList": {
+      "icon.gap": 12,
+      "mnemonic.icon.gap": 12,
+      "mnemonicInsets": "0,8,0,8",
+      "mnemonicsBorderInsets": "0,8,0,8",
+      "mnemonic.insets": "0,8,0,8"
+    },
+    "Breakpoint": {
+      "iconHoverAlpha": 0.35
+    },
+    "Button": {
+      "arc": 8,
+      "minimumSize": "80,34",
+      "ToolWindow": {
+        "arc": 40
+      }
+    },
+    "Caret.width": 2,
+    "CellEditor": {
+      "border": {
+        "width": 2
+      }
+    },
+    "CheckBox": {
+      "border.width": 3,
+      "borderInsets": "4,4,4,4"
+    },
+    "ComboBox": {
+      "padding": "5,5,5,5",
+      "squareButton": true
+    },
+    "ComboPopup": {
+      "border": "1,1,1,1"
+    },
+    "CompletionPopup": {
+      "Advertiser": {
+        "borderInsets": "8,12,8,12"
+      },
+      "selectionInnerInsets": "4,4,4,4"
+    },
+    "ComplexPopup": {
+      "Header": {
+        "insets": "12,12,12,12"
+      },
+      "TextField": {
+        "inputInsets": "8,4,8,4"
+      }
+    },
+    "Component": {
+      "arc": 6,
+      "focusWidth": 2
+    },
+    "ContextHelp": {
+      "fontSizeOffset": 0
+    },
+    "DisclosureButton": {
+      "arc": 16,
+      "textRightIconGap": 8
+    },
+    "DebuggerTabs": {
+      "underlineHeight": 2
+    },
+    "DefaultTabs": {
+      "underlineHeight": 3
+    },
+    "Editor": {
+      "Notification": {
+        "borderInsets": "10,12,10,12",
+        "WithoutStatus.borderInsets": "10,12,10,12"
+      },
+      "ReplaceToolbar": {
+        "borderInsets": "4,12,4,12"
+      },
+      "SearchField": {
+        "borderInsets": "8,12,8,12"
+      },
+      "SearchReplaceModePanel": {
+        "borderInsets": "4,12,4,12"
+      },
+      "SearchToolbar": {
+        "borderInsets": "4,12,4,12"
+      }
+    },
+    "EditorTabs": {
+      "tabContentInsetsActionsLeft": "0,6,0,6",
+      "tabContentInsetsActionsNone": "0,6,0,6",
+      "tabContentInsetsActionsRight": "0,6,0,6",
+      "tabInsets": "-5,8,-5,8",
+      "underlineHeight": 3,
+      "underlineArc": 4,
+      "unselectedBlend": 0.7
+    },
+    "FindPopup": {
+      "bottomPanelInsets": "4,10,4,10",
+      "scopesPanelInsets": "4,16,4,16"
+    },
+    "Gutter": {
+      "VcsChanges.width": 4
+    },
+    "HelpTooltip": {
+      "defaultTextBorderInsets": "16,16,16,16",
+      "fontSizeDelta": 0,
+      "horizontalGap": 10,
+      "maxWidth": 250,
+      "smallTextBorderInsets": "8,12,8,12",
+      "verticalGap": 8,
+      "xOffset": 2,
+      "yOffset": 2
+    },
+    "IdeStatusBar": {
+      "border": "4,4,4,4"
+    },
+    "List": {
+      "Button": {
+        "leftRightInset": 8,
+        "separatorInset": 8
+      },
+      "rowHeight": "28",
+      "selectedItemAlpha": 75
+    },
+    "macOSWindow.Title": {
+      "height": 30,
+      "heightSmall": 20
+    },
+    "MainToolbar": {
+      "Button": {
+        "buttonInsets": "0,4,0,4",
+        "iconSize": 20,
+        "size": "28,28"
+      },
+      "Dropdown": {
+        "borderInsets": "6,12,6,12",
+        "iconSize": 20,
+        "maxWidth": 350
+      },
+      "Icon": {
+        "borderInsets": "4,4,4,4",
+        "insets": "5,4,5,4"
+      },
+      "SplitDropdown": {
+        "borderInsets": "6,6,6,6"
+      }
+    },
+    "macOSWindow": {
+      "Title": {
+        "height": 30,
+        "heightSmall": 24
+      }
+    },
+    "Menu": {
+      "border": "6,6,6,6",
+      "Selection": {
+        "arc": 8,
+        "innerInsets": "8,2,8,2"
+      }
+    },
+    "MenuItem": {
+      "border": "5,5,5,5",
+      "insets": "0,5,0,5",
+      "Selection": {
+        "arc": 8
+      }
+    },
+    "NavBar": {
+      "Breadcrumbs": {
+        "itemInsets": "4,2,4,2"
+      }
+    },
+    "NewClass": {
+      "separatorWidth": 10
+    },
+    "Notification.Shadow": {
+      "borderInsets": "8,8,8,8"
+    },
+    "Notification": {
+      "arc": 16,
+      "borderInsets": "4,4,4,4"
+    },
+    "Popup": {
+      "Advertiser": {
+        "borderInsets": "6,20,6,20"
+      },
+      "Body": {
+        "bottomInsetNoAd": 8,
+        "bottomInsetBeforeAd": 8,
+        "topInsetNoHeader": 8
+      },
+      "borderWidth": 0,
+      "Header": {
+        "insets": "12,10,12,10"
+      },
+      "paintBorder": false,
+      "Selection": {
+        "arc": 8,
+        "innerInsets": "8,8,8,8",
+        "leftRightInset": 8
+      },
+      "SearchField": {
+        "borderInsets": "4,4,4,4",
+        "inputInsets": "4,4,4,4"
+      }
+    },
+    "PopupMenu": {
+      "borderWidth": 1,
+      "border": "8,8,8,8",
+      "borderInsets": "10,10,10,10",
+      "borderCornerRadius": 8,
+      "borderCornerRadiusX": 8,
+      "borderCornerRadiusY": 8,
+      "leftBorderWidth": 8,
+      "rightBorderWidth": 8,
+      "Selection": {
+        "arc": 8,
+        "innerInsets": "8,2,8,2"
+      }
+    },
+    "PopupMenuSeparator": {
+      "borderCornerRadius": 8,
+      "height": 10,
+      "stripeWidth": 2,
+      "stripeIndent": 5,
+      "withToEdge": 4
+    },
+    "RunWidget": {
+      "toolbarHeight": 30,
+      "toolbarBorderHeight": 4
+    },
+    "StatusBar": {
+      "Breadcrumbs": {
+        "chevronInset": 2,
+        "floatingToolbarInsets": "8,12,8,12",
+        "itemBackgroundInsets": "2,4,2,4",
+        "itemInsets": 0
+      }
+    },
+    "StripeToolbar": {
+      "Button": {
+        "iconSize": 20,
+        "iconPadding": "8,8,8,8",
+        "size": "40,40"
+      }
+    },
+    "TabbedPane": {
+      "contentBorderInsets": "3,1,1,1",
+      "fontSizeOffset": 0,
+      "labelShift": 0,
+      "selectedLabelShift": 0,
+      "selectedTabPadInsets": "0,0,0,0",
+      "tabAreaInsets": "0,0,0,0",
+      "tabFillStyle": "underline",
+      "tabHeight": 32,
+      "tabInsets": "5,10,5,10",
+      "tabSelectionArc": 4,
+      "tabSelectionHeight": 2,
+      "tabsOverlapBorder": true
+    },
+    "Table": {
+      "cellNoFocusBorder": "2,3,2,3",
+      "focusCellHighlightBorder": "10,3,10,3",
+      "focusSelectedCellHighlightBorder": "10,3,10,3",
+      "rowHeight": 32
+    },
+    "TableHeader": {
+      "cellBorder": "6,0,6,0",
+      "height": 32
+    },
+    "TextArea": {
+      "caretBlinkRate": 500,
+      "margin": "16,16,16,16"
+    },
+    "TitlePane": {
+      "Button": {
+        "hoverBackground": "hl",
+        "preferredSize": "42,42"
+      }
+    },
+    "ToolBar": {
+      "horizontalToolbarInsets": "6,6,6,6",
+      "verticalToolbarInsets": "6,6,6,6"
+    },
+    "ToolTip": {
+      "arc": 6,
+      "borderCornerRadius": 8
+    },
+    "ToolWindow": {
+      "Button": {
+        "hoverBackground": "table"
+      },
+      "Header": {
+        "height": 42,
+        "labelLeftRightInsets": "0,12,0,16",
+        "toolbarLeftRightInsets": "0,12,0,8"
+      },
+      "HeaderTab": {
+        "leftRightInsets": "0,12,0,12",
+        "underlineArc": 4,
+        "underlineHeight": 3,
+        "verticalPadding": 6
+      }
+    },
+    "Tree": {
+      "border": "4,12,4,12",
+      "rowHeight": "28",
+      "leftChildIndent": 10,
+      "rightChildIndent": 5
+    },
+    "UIDesigner": {
+      "PackageSearch": {
+        "PackagesList": {
+          "rowHeight": 28
+        }
+      },
+      "VersionControl": {
+        "Log": {
+          "Commit": {
+            "rowHeight": 28,
+            "verticalPadding": 8
+          },
+          "Graph": {
+            "saturation": 0.6,
+            "brightness": 0.6
+          }
+        },
+        "MarkerPopup": {
+          "borderInsets": "6,8,6,10"
+        }
+      }
+    }
+  }
+}
