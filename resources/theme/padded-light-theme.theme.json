@@ -90,7 +90,7 @@
       "tabContentInsetsActionsLeft": "0,6,0,6",
       "tabContentInsetsActionsNone": "0,6,0,6",
       "tabContentInsetsActionsRight": "0,6,0,6",
-      "tabInsets": "-5,8,-5,8",
+      "tabInsets": "-2,5,-2,5",
       "underlineHeight": 3,
       "underlineArc": 4,
       "unselectedBlend": 0.7
@@ -153,14 +153,13 @@
       }
     },
     "Menu": {
-      "border": "6,6,6,6",
+      "border": "6,8,6,8",
       "Selection": {
-        "arc": 8,
-        "innerInsets": "8,2,8,2"
+        "arc": 8
       }
     },
     "MenuItem": {
-      "border": "5,5,5,5",
+      "border": "6,8,6,8",
       "insets": "0,5,0,5",
       "Selection": {
         "arc": 8
@@ -207,7 +206,6 @@
     },
     "PopupMenu": {
       "borderWidth": 1,
-      "border": "8,8,8,8",
       "borderInsets": "10,10,10,10",
       "borderCornerRadius": 8,
       "borderCornerRadiusX": 8,
