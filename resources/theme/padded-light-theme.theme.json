@@ -155,7 +155,8 @@
     "Menu": {
       "border": "6,8,6,8",
       "Selection": {
-        "arc": 8
+        "arc": 8,
+        "innerInsets": "8,2,8,2"
       }
     },
     "MenuItem": {
@@ -206,6 +207,7 @@
     },
     "PopupMenu": {
       "borderWidth": 1,
+      "border": "0,0,0,0",
       "borderInsets": "10,10,10,10",
       "borderCornerRadius": 8,
       "borderCornerRadiusX": 8,
