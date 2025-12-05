@@ -306,7 +306,7 @@
     "Tree": {
       "border": "4,12,4,12",
       "rowHeight": "28",
-      "leftChildIndent": 10,
+      "leftChildIndent": 8,
       "rightChildIndent": 5
     },
     "UIDesigner": {
