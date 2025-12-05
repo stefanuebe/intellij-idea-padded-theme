@@ -207,7 +207,6 @@
     },
     "PopupMenu": {
       "borderWidth": 1,
-      "border": "0,0,0,0",
       "borderInsets": "10,10,10,10",
       "borderCornerRadius": 8,
       "borderCornerRadiusX": 8,
