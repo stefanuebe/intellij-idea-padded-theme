@@ -153,14 +153,14 @@
       }
     },
     "Menu": {
-      "border": "6,8,6,8",
+      "border": "6,4,6,4",
       "Selection": {
         "arc": 8,
         "innerInsets": "8,2,8,2"
       }
     },
     "MenuItem": {
-      "border": "6,8,6,8",
+      "border": "6,4,6,4",
       "insets": "0,5,0,5",
       "Selection": {
         "arc": 8
